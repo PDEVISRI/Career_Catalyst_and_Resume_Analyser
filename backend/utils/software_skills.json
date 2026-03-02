@@ -1,59 +1,80 @@
 {
   "Programming_Languages": [
-    "python", "java", "c", "c++", "c#", "javascript", "typescript", "go", 
-    "rust", "kotlin", "swift", "dart", "ruby", "php", "scala", "perl", 
-    "haskell", "elixir", "r", "matlab", "sql", "bash", "powershell", "groovy"
+    "python", "java", "c", "c++", "c#", "javascript", "typescript",
+    "go", "rust", "kotlin", "swift", "dart", "ruby", "php",
+    "scala", "perl", "haskell", "elixir", "r", "matlab",
+    "sql", "bash", "powershell", "groovy"
   ],
 
   "Frontend_Frameworks_and_Tools": [
-    "react", "react.js", "next.js", "vue", "angular", "svelte", 
-    "bootstrap", "tailwind", "sass", "less", "material ui", "chakra ui", 
-    "ant design", "vite", "webpack", "rollup", "parcel", "figma", "adobe xd", 
-    "redux", "zustand", "recoil", "storyblok"
+    "html", "css",
+    "react", "react.js", "next.js", "vue", "angular", "svelte",
+    "bootstrap", "tailwind", "sass", "less",
+    "material ui", "chakra ui", "ant design",
+    "vite", "webpack", "rollup", "parcel",
+    "figma", "adobe xd", "redux", "zustand", "recoil", "storyblok"
   ],
 
   "Backend_Frameworks_and_Tools": [
-    "flask", "django", "spring boot", "express", "nodejs", "node.js", 
-    "graphql", "fastapi", "golang", "php", "laravel", "ruby on rails", 
-    "rust frameworks", "elixir phoenix", "nestjs", "micronaut", "grpc", 
-    "soap api", "rabbitmq", "apache kafka"
+    "flask", "django", "spring boot", "express", "nodejs", "node.js",
+    "graphql", "fastapi", "golang", "laravel", "ruby on rails",
+    "nestjs", "micronaut", "grpc", "soap api",
+    "rabbitmq", "apache kafka"
   ],
 
   "Databases": [
-    "mysql", "postgresql", "mongodb", "firebase", "sql", "redis", "oracle", 
-    "supabase", "dynamodb", "sqlite", "cassandra", "cockroachdb", 
-    "neo4j", "timescale", "bigquery", "snowflake", "elasticsearch"
+    "mysql", "postgresql", "mongodb", "firebase",
+    "redis", "oracle", "supabase", "dynamodb",
+    "sqlite", "cassandra", "cockroachdb",
+    "neo4j", "timescale", "bigquery",
+    "snowflake", "elasticsearch"
   ],
 
   "AI_and_DataScience": [
-    "machine learning", "deep learning", "nlp", "tensorflow", "pytorch", 
-    "scikit-learn", "keras", "pandas", "numpy", "opencv", "llm", "langchain", 
-    "genai", "prompt engineering", "matplotlib", "seaborn", "plotly", 
-    "streamlit", "dash", "huggingface transformers", "openai api", 
-    "spaCy", "fastai", "xgboost", "lightgbm", "catboost", "shap", "mlflow", 
-    "dvc", "data visualization"
+    "machine learning", "deep learning", "nlp",
+    "tensorflow", "pytorch", "scikit-learn",
+    "keras", "pandas", "numpy", "opencv",
+    "llm", "langchain", "genai",
+    "prompt engineering", "matplotlib",
+    "seaborn", "plotly", "streamlit", "dash",
+    "huggingface transformers", "openai api",
+    "spacy", "fastai", "xgboost", "lightgbm",
+    "catboost", "shap", "mlflow", "dvc",
+    "data visualization"
   ],
 
   "DevOps_and_Cloud": [
-    "git", "github", "gitlab", "bitbucket", "docker", "docker compose", 
-    "kubernetes", "aws", "azure", "gcp", "jenkins", "circleci", "travis ci", 
-    "terraform", "ansible", "chef", "puppet", "linux", "bash", "powershell", 
-    "nginx", "apache", "ci/cd", "vercel", "netlify", "cloudflare", 
-    "prometheus", "grafana", "elastic stack", "new relic", "datadog", "sentry"
+    "git", "github", "gitlab", "bitbucket",
+    "docker", "docker compose", "kubernetes",
+    "aws", "azure", "gcp",
+    "jenkins", "circleci", "travis ci",
+    "terraform", "ansible", "chef", "puppet",
+    "linux", "nginx", "apache", "ci/cd",
+    "vercel", "netlify", "cloudflare",
+    "prometheus", "grafana", "elastic stack",
+    "new relic", "datadog", "sentry"
   ],
 
   "Mobile_and_Testing": [
-    "react native", "flutter", "android studio", "kotlin", "swift", "dart", 
-    "xcode", "selenium", "jest", "cypress", "playwright", "mocha", "chai", 
-    "junit", "pytest", "robot framework", "postman", "soapui", "unit testing", 
-    "integration testing", "e2e testing", "appium"
+    "react native", "flutter", "android studio",
+    "xcode", "selenium", "jest",
+    "cypress", "playwright", "mocha",
+    "chai", "junit", "pytest",
+    "robot framework", "postman", "soapui",
+    "unit testing", "integration testing",
+    "e2e testing", "appium"
   ],
 
   "Tools_and_Productivity": [
-    "vscode", "intellij", "pycharm", "webstorm", "jira", "confluence", 
-    "agile", "scrum", "kanban", "microservices", "monolith", "serverless", 
-    "swagger", "openapi", "jwt", "oauth", "saml", "excel", "powerbi", "tableau", 
-    "looker", "qlikview", "monday.com", "asana", "notion", "clickup", 
-    "draw.io", "mermaid", "uml", "sequence diagram"
+    "vscode", "intellij", "pycharm", "webstorm",
+    "jira", "confluence", "agile",
+    "scrum", "kanban", "microservices",
+    "monolith", "serverless", "swagger",
+    "openapi", "jwt", "oauth", "saml",
+    "excel", "powerbi", "tableau",
+    "looker", "qlikview", "monday.com",
+    "asana", "notion", "clickup",
+    "draw.io", "mermaid", "uml",
+    "sequence diagram"
   ]
 }
